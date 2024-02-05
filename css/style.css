@@ -25,7 +25,8 @@ body {
 	background-image: url("../images/Background.png");
 	background-repeat: no-repeat; /* Não repetir imagem */
 	background-size: contain; /* preencher a todo o container */
-	align-items: center;
+	align-items: center; /* Alinha os elementos no centro */
+	text-align: center; /* Alinha os textos no centro */
 }
 
 .container {
